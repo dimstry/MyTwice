@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Lemonada:wght@700&family=Montserrat&display=swap');
+
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#title {
+  font-family: Lemonada,sans-serif;
+  font-size: 12vw;
+  margin: 0;
+  padding: 0;
+  line-height: 1em;
+}
+#title2 {
+  font-family: Lemonada,italic;
+  font-size: 50px;
+  margin: 0;
+  padding: 0;
+  line-height: 1em;
+  color: rgba(53,53,53,0.893);
+  display: flex;
+}
+#image {
+  max-width: 100%;
+  display: block;
+}
+.about {
+  display: relative;
+  max-width: 450px;
+}
+.card {
+  padding: 1rem;
+  margin-top: 1em;
+}
+p {
+  max-width: 450px;
+  border-width: 3px;
+  border-style: solid;
+  border-top-color: rgb(34,34,34);
+  border-bottom-color: rgb(34,34,34);
+  border-left-color: rgb(34,34,34);
+  border-right-color: rgb(34,34,34);
+  margin-top: 2em;
+}
+.yt {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1em;
+}
