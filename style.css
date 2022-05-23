@@ -5,7 +5,10 @@
   margin: 0;
   padding: 0;
 }
-
+p {
+  margin: 0;
+  padding: 0;
+}
 #title {
   font-family: Lemonada,sans-serif;
   font-size: 12vw;
@@ -21,6 +24,7 @@
   line-height: 1em;
   color: rgba(53,53,53,0.893);
   display: flex;
+  width: 0;
 }
 #image {
   max-width: 100%;
@@ -34,7 +38,7 @@
   padding: 1rem;
   margin-top: 1em;
 }
-p {
+.line {
   max-width: 450px;
   border-width: 3px;
   border-style: solid;
@@ -49,4 +53,15 @@ p {
   align-items: center;
   justify-content: center;
   margin-top: 1em;
+}
+
+.person {
+  margin: 0.25em;
+  background-color: red;
+}
+.member {
+  width: 80%;
+  height: 80%;
+  display: flex;
+  align-self: center;
 }
