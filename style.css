@@ -23,7 +23,7 @@ p {
   padding: 0;
   line-height: 1em;
   color: rgba(53,53,53,0.893);
-  display: flex;
+  display: relative;
   width: 0;
 }
 #image {
@@ -57,11 +57,10 @@ p {
 
 .person {
   margin: 0.25em;
-  background-color: red;
+  border: 1px solid #eee;
 }
 .member {
   width: 80%;
   height: 80%;
-  display: flex;
-  align-self: center;
+  padding-top: 0.5em;
 }
