@@ -64,3 +64,11 @@ p {
   height: 80%;
   padding-top: 0.5em;
 }
+
+@media (min-width: 767.98px) {
+  .member {
+    width: 50%;
+    height: 50%;
+    padding-top: 0.5em;
+  }
+}
