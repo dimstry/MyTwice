@@ -4,5 +4,5 @@
 ## Priview
 https://dimstry.github.io/about-twice/
 ## 💙
-Ayo STAN Twice 
-Ayang Ayang ku 🔥
+Ayo STAN Twice Sekarang juga
+Luv for ayang ayang ku ❤️
