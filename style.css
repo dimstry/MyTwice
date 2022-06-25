@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemonada:wght@700&family=Montserrat&display=swap');
 
-
 * {
   margin: 0;
   padding: 0;
@@ -35,18 +34,19 @@ p {
   max-width: 450px;
 }
 .card {
-  padding: 1rem;
+  padding: 1em;
   margin-top: 1em;
 }
 .line {
   max-width: 450px;
   border-width: 3px;
   border-style: solid;
-  border-top-color: rgb(34,34,34);
-  border-bottom-color: rgb(34,34,34);
-  border-left-color: rgb(34,34,34);
-  border-right-color: rgb(34,34,34);
+  border-top-color: rgb(255,59,154);
+  border-bottom-color: rgb(255,59,154);
+  border-left-color: rgb(255,59,154);
+  border-right-color: rgb(255,59,154);
   margin-top: 2em;
+  margin-bottom: 1em;
 }
 .yt {
   display: flex;
