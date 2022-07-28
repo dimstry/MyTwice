@@ -10,7 +10,7 @@ p {
 }
 #title {
   font-family: Lemonada,sans-serif;
-  font-size: 12vw;
+  font-size: 8vw;
   margin: 0;
   padding: 0;
   line-height: 1em;
@@ -66,6 +66,9 @@ p {
 }
 
 @media (min-width: 767.98px) {
+  .card {
+    width: 530px;
+  }
   .member {
     width: 50%;
     height: 50%;
